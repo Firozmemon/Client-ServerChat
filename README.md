@@ -1,6 +1,18 @@
 # Client-ServerChat
 This is basic example project for using Kryonet library
 
+# Demo
+https://youtu.be/4TBxc0RdZRc
+
+# How to Run
+### Running server code
+- Right click ServerMainFile.java
+- Select Run ServerMainFile.main()
+### Running client code
+- Select `app` from dropdown list available between run and build icons
+- Now run the project
+- Open application on device and enter your machines Ip Address(e.g. 192.168.0.105)
+- Now you are connected to server
 
 # License
 
